@@ -1,0 +1,51 @@
+Workspace_Name,Report_Name,Semantic_Model_Name,Database_Column_Name,Reporting_Column_Name,Attribute_Type,Database_Table_Name,PBI_Table_Name,Term_Definition,Formula,View_Hide_Flag
+Digital,Global Sales,SM_Global Sales,date,Date,Field,,Calendar,This is this,None,View
+Digital,Global Sales,SM_Global Sales,day,Day,Field,,Calendar,This is this,None,View
+Digital,Global Sales,SM_Global Sales,month_num,Month Num,Field,,Calendar,This is this,None,View
+Digital,Global Sales,SM_Global Sales,month_name,Month Name,Field,,Calendar,This is this,None,View
+Digital,Global Sales,SM_Global Sales,year,Year,Field,,Calendar,This is this,None,View
+Digital,Global Sales,SM_Global Sales,day_of_month_number_leap_year,Day Of Month Number Leap Year,Field,,Calendar,This is this,None,View
+Digital,Global Sales,SM_Global Sales,day_of_year_number_leap_year,Day Of Year Number Leap Year,Field,,Calendar,This is this,None,View
+Digital,Global Sales,SM_Global Sales,month_index,Month Index,Field,,Calendar,This is this,None,View
+Digital,Global Sales,SM_Global Sales,customer_id,Customer ID,Field,,Customer,This is this,None,View
+Digital,Global Sales,SM_Global Sales,customer,Customer,Field,,Customer,This is this,None,View
+Digital,Global Sales,SM_Global Sales,city,City,Field,,Customer,This is this,None,View
+Digital,Global Sales,SM_Global Sales,state,State,Field,,Customer,This is this,None,View
+Digital,Global Sales,SM_Global Sales,country,Country,Field,,Customer,This is this,None,View
+Digital,Global Sales,SM_Global Sales,age,Age,Field,,Customer,This is this,None,View
+Digital,Global Sales,SM_Global Sales,employee_id,Employee ID,Field,,Customer,This is this,None,View
+Digital,Global Sales,SM_Global Sales,employee_name,Employee Name,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,designation,Designation,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,email_id,Email ID,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,department_id,Department ID,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,date_of_join,Date Of Join,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,state_id,State ID,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,state_name,State Name,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,county_fips,County Fips,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,county_name,County Name,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,latt,Latt,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,long,Long,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,population,Population,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,density,Density,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,timezone,Timezone,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,ranking,Ranking,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,zips,Zips,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,loc_id,Loc ID,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,product_line,Product Line,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,subcategory,Subcategory,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,sub_category_1,Sub Category 1,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,sub_category_2,Sub Category 2,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,product,Product,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,uin,Uin,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,order_id,Order ID,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,order_date,Order Date,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,ship_date,Ship Date,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,status,Status,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,sales_channel,Sales Channel,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,ship_mode,Ship Mode,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,product_uin,Product Uin,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,shipment_status,Shipment Status,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,qty,Qty,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,amount,Amount,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,ship_postal_code,Ship Postal Code,Field,,,,,View
+Digital,Global Sales,SM_Global Sales,emp_code,Emp Code,Field,,,,,View
